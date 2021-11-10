@@ -32,7 +32,7 @@ class Login extends Component {
                                 display: "flex",
                                 flexDirection: "row",
                                 alignSelf: "flex-start",
-                                marginLeft: "12px",
+                                marginLeft: "13px",
                                 fontSize: "20px"
                             }}>Username</p>
                             <input type = 'text' className = 'inputStyle' 
